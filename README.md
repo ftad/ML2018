@@ -4,7 +4,7 @@
 Занятия проходят по субботам, 12:10 - 15:00, ауд. 311.
 
 ### Ссылки
-Канал в telegram для объявлений: https://t.me/joinchat/AAAAAFDWMYIkKSfGPEb_4wa
+Канал в telegram для объявлений: https://t.me/joinchat/AAAAAFDWMYIkKSfGPEb_4w
 
 [Таблица с оценками](https://docs.google.com/spreadsheets/d/1u832G7b9aRyayoncaKXr7XPD6WisDr85AYRBKSVCMq0/edit?usp=sharing)
 
