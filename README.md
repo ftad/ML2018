@@ -47,8 +47,18 @@ __1. Введение в машинное обучение. Основы язы�
 * [Ноутбук по python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/Seminar_python.ipynb) (ссылки на материалы в конце ноутбука)
 * [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf)
 
+__2. Библиотеки numpy и pandas__
+* Материалы по numpy:
+    * [Ноутбук с прошлогоднего семинара: numpy, pandas, matplotlib __MUSTREAD__](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
+    * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
+    * [Вводный ноутбук - более подробно основы](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
+*  Материалы по pandas:
+    * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+    * [Подробный ноутбук-туториал про pandas с майнора](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
+
 ### Задания
-* [Домашнее задание 1](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
+* [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
+* [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
 
 ### Полезные материалы
 Книги:
