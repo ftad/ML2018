@@ -48,6 +48,7 @@ __1. Введение в машинное обучение. Основы язы�
 * [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf)
 
 __2. Библиотеки numpy и pandas__
+* [Advanced problems](https://github.com/ftad/ML2018/blob/master/materials/lesson/problems_numpy.ipynb)
 * Материалы по numpy:
     * [Ноутбук с прошлогоднего семинара: numpy, pandas, matplotlib __MUSTREAD__](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
     * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
