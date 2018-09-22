@@ -57,10 +57,18 @@ __2. Библиотеки numpy и pandas__
 *  Материалы по pandas:
     * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
     * [Подробный ноутбук-туториал про pandas с майнора](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
+    
+__3. Градиентные методы оптимизации. Линейная регрессия__
+* [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture02-linregr.pdf)
+* [Конспект семинара](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem03-linregr.pdf)
+* [Ipynb по предобработке данных](https://github.com/ftad/ML2018/blob/master/materials/lesson3/sem_preprocessing.ipynb)
+* [Базовый туториал по sklearn в офиц. документации](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+* Дополнительно: [Материалы по матричному дифференцированию](https://www.cs.ox.ac.uk/files/723/NA-08-01.pdf)
 
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
+* [Домашнее задание 3: векторное дифференцирование](https://github.com/ftad/ML2018/blob/master/materials/lesson3/homework03-linreg.pdf) Деллайн: 12:10 29.09.12
 
 ### Полезные материалы
 Книги:
