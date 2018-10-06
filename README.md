@@ -68,15 +68,21 @@ __3. Градиентные методы оптимизации. Линейна�
 * Дополнительно: [Материалы по матричному дифференцированию](https://www.cs.ox.ac.uk/files/723/NA-08-01.pdf)
 
 __4. Фнукции потерь в регрессии. Регуляризация в линейной регрессии__
-* [Конспект про функции потерь 1](https://github.com/ftad/ML2018/blob/master/materials/lesson4/preprocessing_and_loss_funcs.ipynb) (вторая часть)
-* [Конспект про функции потерь 2](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture02-linregr.pdf)
-* [Конспект про регуляризацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf)
+* [Конспект по функциям потерь 1](https://github.com/ftad/ML2018/blob/master/materials/lesson4/preprocessing_and_loss_funcs.ipynb) (вторая часть)
+* [Конспект по функциям потерь 2](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture02-linregr.pdf)
+* [Конспект по регуляризации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf)
+
+__5. Вероятностный подход к машинному обучению. Линейная классификация__
+* [Конспект по вероятностному подходу](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem04-linregr.pdf)
+* [Конспект по линейной классификации (до метрик)](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture04-linclass.pdf)
+* [Конспект по оцениванию вероятностей и логистической регрессии](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture05-linclass.pdf)
 
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
 * [Домашнее задание 3: векторное дифференцирование](https://github.com/ftad/ML2018/blob/master/materials/lesson3/homework03-linreg.pdf) Деллайн: 12:10 29.09.12 (сдавать на листочке на занятии 29 сент)
-* [Домашнее задание 4: линейная регрессия](https://github.com/ftad/ML2018/blob/master/materials/lesson4/homework4.ipynb). [Данные](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/homeworks-practice/data/homework-practice-03-data.csv). [Яндекс контест](https://contest.yandex.ru/contest/9247). [Альтернативная ссылка на Яндекс контест](https://official.contest.yandex.ru/contest/9247) В Anytask: задача linreg
+* [Домашнее задание 4: линейная регрессия](https://github.com/ftad/ML2018/blob/master/materials/lesson4/homework4.ipynb). [Данные](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/homeworks-practice/data/homework-practice-03-data.csv). [Яндекс контест](https://contest.yandex.ru/contest/9247). [Альтернативная ссылка на Яндекс контест](https://official.contest.yandex.ru/contest/9247) В Anytask: задача linreg. Деллайн: мягкий 02:00 06.10.18, жесткий 23:59 07.10.18
+* [Домашнее задание 5: вероятностный подход](https://github.com/ftad/ML2018/tree/master/materials/lesson5) Деллайн: 12:10 13.10.12 (сдавать на листочке на занятии 13 октября)
 
 ### Полезные материалы
 Книги:
