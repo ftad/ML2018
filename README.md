@@ -77,12 +77,20 @@ __5. Вероятностный подход к машинному обучен�
 * [Конспект по линейной классификации (до метрик)](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture04-linclass.pdf)
 * [Конспект по оцениванию вероятностей и логистической регрессии](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture05-linclass.pdf)
 
+__6. Линейная классификация (продолжение). Метрики качества классификации__
+* [Конспект по SVM](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture05-linclass.pdf)
+* [Конспект по метрикам качества](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture04-linclass.pdf)
+* [Конспект по построению ROC кривой + задачи на ROC кривую](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem05-linclass-metrics.pdf)
+* [Конспект по многоклассовой классификации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture06-linclass.pdf)
+* [Ноутбук с визуализацией кривых](https://github.com/ftad/ML2018/blob/master/materials/lesson6/roc_rpc_vis.ipynb)
+
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
 * [Домашнее задание 3: векторное дифференцирование](https://github.com/ftad/ML2018/blob/master/materials/lesson3/homework03-linreg.pdf) Деллайн: 12:10 29.09.12 (сдавать на листочке на занятии 29 сент)
 * [Домашнее задание 4: линейная регрессия](https://github.com/ftad/ML2018/blob/master/materials/lesson4/homework4.ipynb). [Данные](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/homeworks-practice/data/homework-practice-03-data.csv). [Яндекс контест](https://contest.yandex.ru/contest/9247). [Альтернативная ссылка на Яндекс контест](https://official.contest.yandex.ru/contest/9247) В Anytask: задача linreg. Дедлайн: мягкий 02:00 06.10.18, жесткий 23:59 07.10.18
 * [Домашнее задание 5: вероятностный подход](https://github.com/ftad/ML2018/blob/master/materials/lesson5/homework5.pdf) Деллайн: 12:10 13.10.12 (сдавать на листочке на занятии 13 октября)
+* [Домашнее задание 6 (опциональное)](https://github.com/ftad/ML2018/blob/master/materials/lesson6/homework6_opt.ipynb) Дедлайн: мягкий 02:00 20.10.18, жесткий 23:59 21.10.18. Все баллы добавляются как бонусные к баллам за домашнюю работу. 
 
 ### Полезные материалы
 Книги:
