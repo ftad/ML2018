@@ -95,7 +95,7 @@ __7. Решающие деревья__
 * [Домашнее задание 4: линейная регрессия](https://github.com/ftad/ML2018/blob/master/materials/lesson4/homework4.ipynb). [Данные](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/homeworks-practice/data/homework-practice-03-data.csv). [Яндекс контест](https://contest.yandex.ru/contest/9247). [Альтернативная ссылка на Яндекс контест](https://official.contest.yandex.ru/contest/9247) В Anytask: задача linreg. Дедлайн: мягкий 02:00 06.10.18, жесткий 23:59 07.10.18
 * [Домашнее задание 5: вероятностный подход](https://github.com/ftad/ML2018/blob/master/materials/lesson5/homework5.pdf) Деллайн: 12:10 13.10.12 (сдавать на листочке на занятии 13 октября)
 * [Домашнее задание 6 (опциональное)](https://github.com/ftad/ML2018/blob/master/materials/lesson6/homework6_opt.ipynb) Дедлайн: мягкий 02:00 20.10.18, жесткий 23:59 21.10.18. Все баллы добавляются как бонусные к баллам за домашнюю работу.
-* [Домашнее задание 7](https://github.com/ftad/ML2018/blob/master/materials/lesson7/homework7.ipynb) Дедлайн: мягкий 23:59 04.11.2018, жесткий 09.11.2018 (-1 балл/день). 
+* [Домашнее задание 7: решающие деревья](https://github.com/ftad/ML2018/blob/master/materials/lesson7/homework7.ipynb) Дедлайн: мягкий 23:59 04.11.2018, жесткий 09.11.2018 (-1 балл/день). 
 
 ### Полезные материалы
 Книги:
