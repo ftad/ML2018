@@ -86,7 +86,7 @@ __6. Линейная классификация (продолжение). Ме�
 
 __7. Решающие деревья__
 * [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/lecture-notes/lecture07-trees.pdf)
-* [Конспект с адачами на критерии информативности](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem07-trees.ipynb)
+* [Конспект с задачами на критерии информативности](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem07-trees.ipynb)
 
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
