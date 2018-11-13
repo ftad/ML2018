@@ -95,6 +95,12 @@ __7. Решающие деревья__
 * [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/lecture-notes/lecture07-trees.pdf)
 * [Конспект с задачами на критерии информативности](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem07-trees.ipynb)
 
+__8. Метрические методы__
+* [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem06-knn.pdf)
+* [Более подробно про Locality Sensitive Hashing](https://github.com/esokolov/ml-course-msu/blob/master/ML16/lecture-notes/Sem03_knn.pdf)
+* [Презентация с описание метода отбора объектов STOLP (слайды 15-19)](http://www.machinelearning.ru/wiki/images/archive/c/c3/20150216123138%21Voron-ML-Metric-slides.pdf)
+* [Презентация про применение 1NN в базах данных](http://www.machinelearning.ru/wiki/images/9/95/BMMO_16_Ivanov_DBMS.pdf)
+
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
