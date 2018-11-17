@@ -101,6 +101,12 @@ __8. Метрические методы__
 * [Презентация с описание метода отбора объектов STOLP (слайды 15-19)](http://www.machinelearning.ru/wiki/images/archive/c/c3/20150216123138%21Voron-ML-Metric-slides.pdf)
 * [Презентация про применение 1NN в базах данных](http://www.machinelearning.ru/wiki/images/9/95/BMMO_16_Ivanov_DBMS.pdf)
 
+__9. Композиции__
+* [Конспект про бэггинг и случайный лес](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (пропустите часть про bias-variance decomposition)
+* [Конспект про градиентный бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture09-ensembles.pdf)
+* [Конспект с задачами на градиентный бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part1.pdf)
+* [Ноутбук с демонстрациями](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part2.ipynb)
+
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
