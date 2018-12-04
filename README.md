@@ -107,6 +107,11 @@ __9. Композиции__
 * [Конспект с задачами на градиентный бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part1.pdf)
 * [Ноутбук с демонстрациями](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part2.ipynb)
 
+__10. Композиции (окончание темы). Разложение ошибки на смещение и разброс__
+* [Конспект про стекинг и блендинг](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/lecture-notes/lecture10-ensembles.pdf)
+* [Конспект про разложение ошибки на смещение и разброс](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf)
+* [Задачи по разложению на смещение и разброс](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem08-bvd.pdf)
+
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
@@ -116,6 +121,8 @@ __9. Композиции__
 * [Домашнее задание 6 (опциональное)](https://github.com/ftad/ML2018/blob/master/materials/lesson6/homework6_opt.ipynb) Дедлайн: мягкий 02:00 20.10.18, жесткий 23:59 21.10.18. Все баллы добавляются как бонусные к баллам за домашнюю работу.
 * [Домашнее задание 7: решающие деревья](https://github.com/ftad/ML2018/blob/master/materials/lesson7/homework7.ipynb) Дедлайн: мягкий 23:59 04.11.2018, жесткий 09.11.2018 (-1 балл/день). 
 * [Домашнее задание 8: классификация цифр и смс-сообщений](https://github.com/ftad/ML2018/blob/master/materials/lesson8/homework8.ipynb) Дедлайн: мягкий 23:59 20.11.2018, жесткий: 23:59 22.11.2018
+* [Домашнее задание 9: настройка композиций алгоритмов](https://github.com/ftad/ML2018/blob/master/materials/lesson9/homework9.ipynb) Дедлайн: 02:00 15.12.2018 (жесткий)
+* [Домашнее задание 10: разложение ошибки на смещение и разброс](https://github.com/ftad/ML2018/blob/master/materials/lesson10/homework10.ipynb) Дедлайн: жесткий 03:00 17.12.18
 
 ### Полезные материалы
 Книги:
