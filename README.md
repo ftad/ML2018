@@ -112,6 +112,14 @@ __10. Композиции (окончание темы). Разложение �
 * [Конспект про разложение ошибки на смещение и разброс](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf)
 * [Задачи по разложению на смещение и разброс](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem08-bvd.pdf)
 
+__11. Обучение без учителя: кластеризация, понижение размерности, визуализация.__
+* [Конспект про кластеризацию и визуализацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture11-unsupervised.pdf)
+* [Конспект про понижение размерности (с выводом PCA)](https://github.com/esokolov/ml-course-msu/blob/master/ML15-spring/lecture-notes/Sem06_pca.pdf), [друго конспект](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture12-factorizations.pdf)
+
+__12. Генерация и отбор признаков__
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf)
+* [Презентация](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
+
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
